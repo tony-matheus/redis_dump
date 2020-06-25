@@ -1,0 +1,3 @@
+HGETALL departamento:4
+ZRANGEBYSCORE empregado_salary < 3000
+keys departamento*
