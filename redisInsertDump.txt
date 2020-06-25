@@ -1,0 +1,14 @@
+HMSET empregado:1 name Tony desc "FullStack Developer" salary 100 cod_dep 1
+HMSET empregado:2 name Victor desc "FullStack Developer" salary 100 cod_dep 1
+HMSET empregado:3 name Victor desc "FullStack Developer" salary 100 cod_dep 2
+HMSET empregado:4 name Tony desc "FullStack Developer" salary 100 cod_dep 1
+HMSET empregado:5 name Tony desc "FullStack Developer" salary 100 cod_dep 2
+HMSET empregado:6 name Daeuble desc "FullStack Developer" salary 100 cod_dep 2
+HMSET empregado:7 name Daeuble desc "FullStack Developer" salary 100 cod_dep 2
+HMSET empregado:8 name Daeuble desc "FullStack Developer" salary 100 cod_dep 2
+HMSET empregado:9 name Andre desc "FullStack Developer" salary 100 cod_dep 2
+HMSET empregado:10 name Victor desc "FullStack Developer" salary 100 cod_dep 1
+
+
+HMSET departamento:1 name Festas 
+HMSET departamento:2 name Festas 

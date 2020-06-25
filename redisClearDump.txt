@@ -1,0 +1,12 @@
+DEL empregado:1
+DEL empregado:2
+DEL empregado:3
+DEL empregado:4
+DEL empregado:5
+DEL empregado:6
+DEL empregado:7
+DEL empregado:8
+DEL empregado:9
+DEL empregado:10
+DEL departamento:1
+DEL departamento:2
